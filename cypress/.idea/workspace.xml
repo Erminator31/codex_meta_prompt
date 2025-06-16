@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e3d44b6-ce9d-43fe-9f6d-6c2d0489083c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f01_add_task.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f02_toggle_task.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f03_done_view.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f04_restore_task.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f05_persistence.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f06_priority_badges.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f07_drag_and_drop.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f08_inline_edit.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f09_theme_toggle.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../o3_monolith.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Erminator31"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Erminator31/integrationsseminar.git",
+    "accountId": "2c006cfc-9ba8-4096-99a0-f01681ed74a7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2xvHJRyZgjdNJitfKWGIko7F67A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ermin/OneDrive/Documents/integrationsseminar/o3_monolith",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e3d44b6-ce9d-43fe-9f6d-6c2d0489083c" name="Changes" comment="" />
+      <created>1748811554696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748811554696</updated>
+      <workItem from="1748811555785" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

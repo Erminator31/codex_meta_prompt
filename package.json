@@ -1,0 +1,22 @@
+{
+  "name": "codex_mehrere_prompts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "start": "live-server --host=127.0.0.1 --port=3000 .",
+    "evaluate": "node tools/evaluate.js ./"
+  },
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.27.4",
+    "@babel/preset-env": "^7.27.2",
+    "es6-plato": "^1.2.3",
+    "escomplex": "^2.0.0-alpha",
+    "espree": "^10.4.0",
+    "estraverse": "^5.3.0",
+    "glob": "^11.0.2"
+  }
+}
