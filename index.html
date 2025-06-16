@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Todo App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="#/">Offen</a>
+      <a href="#/done">Erledigt</a>
+    </nav>
+    <button id="theme-toggle" aria-label="Theme umschalten">🌓</button>
+  </header>
+  <main>
+    <section id="open-view">
+      <div class="controls">
+        <input id="todo-input" type="text" maxlength="200" placeholder="Neue Aufgabe" />
+        <select id="priority-select">
+          <option value="low" selected>low</option>
+          <option value="medium">medium</option>
+          <option value="high">high</option>
+        </select>
+        <button id="add-button" disabled>Hinzufügen</button>
+        <select id="sortSelect">
+          <option value="order" selected>Reihenfolge</option>
+          <option value="priority">Priorität</option>
+        </select>
+      </div>
+      <ul id="todo-list"></ul>
+    </section>
+    <section id="done-view" hidden>
+      <ul id="done-list"></ul>
+    </section>
+  </main>
+<script type="module" src="script.js"></script>
+</body>
+</html>
